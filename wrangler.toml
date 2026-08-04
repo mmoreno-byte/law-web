@@ -1,0 +1,9 @@
+name = "law-web"
+type = "javascript"
+account_id = "c55a722c4b5f5c4022c5b0aa2b766d84"
+workers_dev = true
+routes = []
+zone_id = ""
+
+[env.production]
+name = "law-web"
